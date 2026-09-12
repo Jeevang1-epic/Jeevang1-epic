@@ -41,7 +41,7 @@
 
 | AI systems | Vision & ML | Robotics |
 | --- | --- | --- |
-| Agentic systems<br>Agent orchestration<br>Evaluation & verification<br>Tool integration<br>AI reliability<br>Local-first AI | PyTorch<br>Deep learning<br>Computer vision<br>Classification<br>Object detection<br>Semantic segmentation<br>Model evaluation | ROS 2<br>Autonomous systems<br>Perception<br>Simulation<br>Planning / control<br>Gazebo<br>MoveIt |
+| Agentic systems<br>Agent orchestration<br>Evaluation & verification<br>Tool / model integration<br>AI reliability<br>Local-first AI | PyTorch<br>Deep learning<br>Computer vision<br>Classification<br>Object detection<br>Semantic segmentation<br>Model evaluation | ROS 2<br>Autonomous systems<br>Perception<br>Simulation<br>Planning / control<br>Gazebo<br>MoveIt |
 
 **Languages:** Python — primary · TypeScript / JavaScript — strong · C++ — working<br>
 **Systems:** Git / GitHub Actions · Vercel · Linux / WSL · local-first developer tooling
@@ -49,8 +49,6 @@
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/Jeevang1-epic">GitHub</a>
-  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/puttala-jeevan-kumar">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/Jeevan14645371">X</a>
