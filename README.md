@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-system-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/profile-system-light.svg">
-  <img width="100%" alt="Puttala Jeevan Kumar — AI systems engineer working across agents, machine learning, and robotics" src="./assets/profile-system-light.svg">
+  <img width="100%" alt="Puttala Jeevan Kumar — AI systems engineer profile with a faithful vector pixel-art black cat" src="./assets/profile-system-light.svg">
 </picture>
 
 <p align="center">
