@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  AI engineering across agents, verification, computer vision, and robotics.
+  Building agentic AI systems across orchestration, evaluation, computer vision, and robotics.
 </p>
 
 <picture>
@@ -41,7 +41,7 @@
 
 | AI systems | Vision & ML | Robotics |
 | --- | --- | --- |
-| Agent orchestration · verification · model evaluation | PyTorch · deep learning · detection · segmentation | ROS 2 · simulation · autonomous systems · perception |
+| Agentic systems<br>Agent orchestration<br>Evaluation & verification<br>Tool integration<br>AI reliability<br>Local-first AI | PyTorch<br>Deep learning<br>Computer vision<br>Classification<br>Object detection<br>Semantic segmentation<br>Model evaluation | ROS 2<br>Autonomous systems<br>Perception<br>Simulation<br>Planning / control<br>Gazebo<br>MoveIt |
 
 **Languages:** Python — primary · TypeScript / JavaScript — strong · C++ — working<br>
 **Systems:** Git / GitHub Actions · Vercel · Linux / WSL · local-first developer tooling

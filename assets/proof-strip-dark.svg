@@ -4,22 +4,22 @@
   <defs>
     <style>
       text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
-      .k { fill:#98A29B; font-size:11px; font-weight:700; letter-spacing:1.7px; }
-      .v { fill:#F2EBDD; font-size:24px; font-weight:700; letter-spacing:-.4px; }
+      .k { fill:#ADB1AF; font-size:11px; font-weight:700; letter-spacing:1.7px; }
+      .v { fill:#F3F1EC; font-size:24px; font-weight:700; letter-spacing:-.4px; }
       .pulse { transform-box:fill-box; transform-origin:center; animation:pulse 3.4s ease-in-out infinite; }
       @keyframes pulse { 0%,100%{opacity:.38;transform:scale(.72)} 50%{opacity:1;transform:scale(1)} }
       @media (prefers-reduced-motion: reduce) { .pulse{animation:none;opacity:1} }
     </style>
   </defs>
-  <rect x="1" y="1" width="1198" height="114" rx="10" fill="#0B0E0C" stroke="#354039" stroke-width="2"/>
-  <path d="M390 20V96M810 20V96" stroke="#354039"/>
-  <circle cx="32" cy="28" r="5" fill="#78CB93" class="pulse"/>
+  <rect x="1" y="1" width="1198" height="114" rx="10" fill="#090A0A" stroke="#3B3F3D" stroke-width="2"/>
+  <path d="M390 20V96M810 20V96" stroke="#3B3F3D"/>
+  <circle cx="32" cy="28" r="5" fill="#ADB1AF"/>
   <text x="52" y="33" class="k">MERGE SIGNAL</text>
   <text x="32" y="75" class="v">70+ MERGED PRs</text>
-  <circle cx="422" cy="28" r="5" fill="#78CB93" class="pulse"/>
+  <circle cx="422" cy="28" r="5" fill="#ADB1AF"/>
   <text x="442" y="33" class="k">PUBLIC OSS SIGNAL</text>
   <text x="422" y="75" class="v">20+ EXTERNAL OSS PRs MERGED</text>
-  <circle cx="842" cy="28" r="5" fill="#D5A35E"/>
+  <circle cx="842" cy="28" r="5" fill="#ADB1AF"/>
   <text x="862" y="33" class="k">OPERATING DOMAIN</text>
   <text x="842" y="75" class="v">AI / ML / ROBOTICS</text>
 </svg>
