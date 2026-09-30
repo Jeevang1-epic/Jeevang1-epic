@@ -133,7 +133,7 @@
 
     <rect x="744" y="425" width="300" height="104" rx="5" fill="#E7E5DF" stroke="#BABDB9"/>
     <text x="763" y="450" class="micro">OPEN SOURCE</text>
-    <text x="763" y="493" class="metric">20+</text>
+    <text x="763" y="493" class="metric">30+</text>
     <text x="845" y="480" class="metric-label">EXTERNAL OSS</text>
     <text x="845" y="498" class="metric-label">PRs MERGED</text>
   </g>
