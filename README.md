@@ -35,7 +35,7 @@
 
 ## Open source
 
-**20+ external OSS PRs merged.** Recent upstream work includes correctness and edge-case fixes across [Kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AJeevang1-epic+is%3Amerged) and a [local-model cache isolation fix](https://github.com/huggingface/transformers/pull/45642) in Hugging Face Transformers.
+**30+ external OSS PRs merged.** Recent upstream work includes correctness and edge-case fixes across [Kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AJeevang1-epic+is%3Amerged) and a [local-model cache isolation fix](https://github.com/huggingface/transformers/pull/45642) in Hugging Face Transformers.
 
 ## Focused capabilities
 
