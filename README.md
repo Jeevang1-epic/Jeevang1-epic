@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/proof-strip-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/proof-strip-light.svg">
-  <img width="100%" alt="70+ merged PRs · 20+ external OSS PRs merged · AI / ML / Robotics" src="./assets/proof-strip-light.svg">
+  <img width="100%" alt="70+ merged PRs · 40+ external OSS PRs merged · AI / ML / Robotics" src="./assets/proof-strip-light.svg">
 </picture>
 
 <br>
@@ -35,7 +35,7 @@
 
 ## Open source
 
-**30+ external OSS PRs merged.** Recent upstream work includes correctness and edge-case fixes across [Kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AJeevang1-epic+is%3Amerged) and a [local-model cache isolation fix](https://github.com/huggingface/transformers/pull/45642) in Hugging Face Transformers.
+**40+ external OSS PRs merged.** Recent upstream work includes correctness and edge-case fixes across [Kornia](https://github.com/kornia/kornia/pulls?q=is%3Apr+author%3AJeevang1-epic+is%3Amerged) and a [local-model cache isolation fix](https://github.com/huggingface/transformers/pull/45642) in Hugging Face Transformers.
 
 ## Focused capabilities
 
