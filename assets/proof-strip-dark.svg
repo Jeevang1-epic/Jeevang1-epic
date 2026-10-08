@@ -18,7 +18,7 @@
   <text x="32" y="75" class="v">70+ MERGED PRs</text>
   <circle cx="422" cy="28" r="5" fill="#ADB1AF"/>
   <text x="442" y="33" class="k">PUBLIC OSS SIGNAL</text>
-  <text x="422" y="75" class="v">30+ EXTERNAL OSS PRs MERGED</text>
+  <text x="422" y="75" class="v">40+ EXTERNAL OSS PRs MERGED</text>
   <circle cx="842" cy="28" r="5" fill="#ADB1AF"/>
   <text x="862" y="33" class="k">OPERATING DOMAIN</text>
   <text x="842" y="75" class="v">AI / ML / ROBOTICS</text>
